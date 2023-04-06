@@ -4,21 +4,21 @@ Quizzical Project from [Scrimba](https://scrimba.com/learn/frontend)'s React bas
 
 ## Project Link
 
- Hosted using Netlify 
+[Project Link] quizzical-project-scrimba.netlify.app Hosted using Netlify 
 
 ## Previews
 
 StarT Screen
 
-<img src="../images/startScreen.png">
+<img src="./public/images/startScreen.png">
 
 Quiz
 
-<img src="../images/quiz.png">
+<img src="./public/images/quiz.png">
 
 Results
 
-<img src="../images/results.png">
+<img src="./public/images/results.png">
 
 ## Project Functionality
 
